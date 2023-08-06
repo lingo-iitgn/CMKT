@@ -19,7 +19,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
   name="cmkt",
-  version="0.1.0",
+  version="0.3.0",
   description="A library for processing Code Mixed Text.",
   long_description_content_type="text/markdown",
   long_description=long_description,
@@ -45,13 +45,13 @@ setup(
     "pandas", 
     "requests", 
     "tqdm",
-    'fastai==1.0.57',
+    'fastai==2.7.12',
     "sentencepiece",
     "torch==2.0.1",
     "dill",
     "torchtext==0.15.2",
-    "googletrans",
-    "tabulate==0.9.0"
+    "googletrans==3.1.0a0",
+    "tabulate==0.9.0", 
     "transformers==4.29.1",
     "nltk",
     "rouge_score",
