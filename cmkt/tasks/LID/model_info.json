@@ -1,0 +1,13 @@
+{
+    "model":[
+        {
+            "Model name": "xlm-roberta-base",
+            "task": "LID",
+            "Invoke By": "XLM_HIEN_LID",
+            "dataset": "Language Identification and Analysis of Code-Switched Social Media Text (Mave et al., ACL 2018)",
+            "Test Accuracy": "97.34",
+            "Train/Val/Test Examples": "4823/1854/744",
+            "language": "hineng"
+        }
+    ]
+}

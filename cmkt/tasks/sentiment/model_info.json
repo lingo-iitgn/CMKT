@@ -1,0 +1,13 @@
+{
+    "model":[
+        {
+            "Model name": "xlm-roberta-base",
+            "task": "sentiment analysis",
+            "Invoke By": "XLM_HIEN_SENT",
+            "dataset": "SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets (Patwa et al., SemEval 2020)",
+            "Test Accuracy": "63.26%",
+            "Train/Val/Test Examples": "14k/3k",
+            "language": "hineng"
+        }            
+    ]
+}

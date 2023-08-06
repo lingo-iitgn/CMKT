@@ -1,0 +1,13 @@
+{
+    "model":[
+        {
+            "Model name": "xlm-roberta-base",
+            "task": "POS",
+            "Invoke By": "XLM_HIEN_POS",
+            "dataset": "A Twitter Corpus for Hindi-English Code Mixed POS Tagging (Singh et al., SocialNLP 2018)",
+            "Test Accuracy": "96.95%",
+            "Train/Val/Test Examples": "831/238/119",
+            "language": "hineng"
+        }            
+    ]
+}
