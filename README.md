@@ -13,7 +13,7 @@ pip install cmkt
 ```
 ## Getting Started
 How to use this library: <br>
-The toolkit usage and documentation can be accessed [here](https://colab.research.google.com/drive/11O3ApBUHgWhBe-Pv20KZaw-3o-1lm30h#scrollTo=j-MmU6Et9kZo)
+Refer the demo files for toolkit usage or the detailed documentation can be accessed [here](https://colab.research.google.com/drive/11O3ApBUHgWhBe-Pv20KZaw-3o-1lm30h#scrollTo=j-MmU6Et9kZo)
 ## Modules:
 There are four different modules available:-
 <br>
