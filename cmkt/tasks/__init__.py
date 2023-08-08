@@ -130,7 +130,7 @@ class TaskToolKit:
                 model = model_class()
                 break
             else:
-                print(f"{model_name} model not found for LID in {self.lang} language")
+                print(f"{model_name} model not found for NER in {self.lang} language")
                 return                                                
         return model
 
@@ -145,7 +145,7 @@ class TaskToolKit:
                 model = model_class()
                 break
             else:
-                print(f"{model_name} model not found for LID in {self.lang} language")
+                print(f"{model_name} model not found for POS in {self.lang} language")
                 return                                                
         return model
     
@@ -161,7 +161,7 @@ class TaskToolKit:
                 model = model_class()
                 break
             else:
-                print(f"{model_name} model not found for LID in {self.lang} language")
+                print(f"{model_name} model not found for sentiment analysis in {self.lang} language")
                 return                                                
         return model
     
@@ -177,7 +177,7 @@ class TaskToolKit:
                 model = model_class()
                 break
             else:
-                print(f"{model_name} model not found for LID in {self.lang} language")
+                print(f"{model_name} model not found for hatespeech detection in {self.lang} language")
                 return                                                
         return model
     
@@ -193,7 +193,7 @@ class TaskToolKit:
                 model = model_class()
                 break
             else:
-                print(f"{model_name} model not found for LID in {self.lang} language")
+                print(f"{model_name} model not found for humor detection in {self.lang} language")
                 return                                                
         return model
     
@@ -209,7 +209,7 @@ class TaskToolKit:
                 model = model_class()
                 break
             else:
-                print(f"{model_name} model not found for LID in {self.lang} language")
+                print(f"{model_name} model not found for translation in {self.lang} language")
                 return                                                
         return model
 
