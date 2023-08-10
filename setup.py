@@ -19,7 +19,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
   name="cmkt",
-  version="0.4.0",
+  version="0.5.0",
   description="A library for processing Code Mixed Text.",
   long_description_content_type="text/markdown",
   long_description=long_description,
