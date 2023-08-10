@@ -50,7 +50,7 @@ setup(
     "torch==2.0.1",
     "dill",
     "torchtext==0.15.2",
-    "googletrans==3.1.0a0",
+    "googletrans==3.0.0",
     "tabulate==0.9.0", 
     "transformers==4.29.1",
     "nltk",
