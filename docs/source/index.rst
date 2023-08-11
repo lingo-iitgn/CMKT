@@ -23,6 +23,8 @@ Language Convention followed throughout cmkt
 
 Check out the :doc:`usage` section for further information, including how to :ref:`install <installation>` the project.
 
+This site is still in the works. More detailed documentation to be added soon!!
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -36,6 +38,11 @@ Contents
 Indices and tables
 ==================
 
+.. toctree::
+   :hidden:
+
+   genindex
+
 * :ref:`genindex`
-* :ref:`modindex`
+.. * :ref:`modindex`
 * :ref:`search`
